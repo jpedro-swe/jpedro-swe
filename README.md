@@ -9,7 +9,7 @@
   <a href="https://github.com/jpedro-swe">
     <img src="https://img.shields.io/badge/GitHub-jpedro--swe-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <!-- Adicione LinkedIn e e-mail aqui -->
+  <!-- Adicione seus outros links abaixo (descomente e preencha) -->
   <!--
   <a href="https://www.linkedin.com/in/SEU-USUARIO">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -19,16 +19,6 @@
   </a>
   -->
 </p>
-
----
-
-## 🎮 Gráfico de contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph.svg">
-  <img alt="Gráfico de contribuições estilo Pac-Man" src="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
@@ -60,7 +50,7 @@ Gosto de construir soluções práticas e aprender fazendo. Meu foco é evoluir 
 **Banco de dados**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-<!-- Troque pelos bancos que você realmente usa: MySQL, PostgreSQL, SQLite, SQL Server -->
+<!-- Troque pelos bancos que você realmente usa, ex.: MySQL, PostgreSQL, SQLite, SQL Server -->
 
 **Frameworks e plataformas**
 
@@ -81,9 +71,43 @@ Gosto de construir soluções práticas e aprender fazendo. Meu foco é evoluir 
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Plantinder](https://github.com/jpedro-swe/Plantinder) | Plataforma que conecta quem quer doar uma planta com quem quer adotar | _preencha_ |
+| [Plantinder](https://github.com/jpedro-swe/Plantinder) | _Descreva em uma linha o que o app faz_ | _ex.: C#, .NET MAUI_ |
 | [maui-pdm](https://github.com/jpedro-swe/maui-pdm) | _Projetos de desenvolvimento mobile com .NET MAUI_ | C#, .NET MAUI |
 | [Analise_Projeto_Sistema](https://github.com/jpedro-swe/Analise_Projeto_Sistema) | _Análise e modelagem de sistemas (UML, requisitos)_ | _Documentação, UML_ |
-| [Estruturas-de-Dados](https://github.com/jpedro-swe/Estruturas-de-Dados) | _Listas, pilhas, filas, árvores etc._ | _ex.: Java / C_ |
+| [Estruturas-de-Dados](https://github.com/jpedro-swe/Estruturas-de-Dados) | _Implementações de listas, pilhas, filas, árvores etc._ | _ex.: Java / C_ |
 | [POO](https://github.com/jpedro-swe/POO) | _Exercícios e projetos de Programação Orientada a Objetos_ | _ex.: Java_ |
-| [Web-Programming](https://github.com/jpedro-swe/Web-Programming) | _Projetos de desenvolvimento web_
+| [Web-Programming](https://github.com/jpedro-swe/Web-Programming) | _Projetos de desenvolvimento web_ | HTML, CSS, JavaScript, PHP |
+
+> 💡 Ajuste as descrições e tecnologias conforme o conteúdo real de cada repositório. Descrições curtas fazem muita diferença para quem visita seu perfil.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jpedro-swe&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro-swe&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🎮 Gráfico de contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Gráfico de contribuições estilo Pac-Man" src="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 💬 Filosofia
+
+> "Aprendo construindo: cada projeto é uma chance de melhorar e transformar ideias em soluções reais."
+
+---
+
+<p align="center">
+  ⭐ Obrigado por visitar meu perfil!<br>
+  🤝 Aberto a aprender, colaborar e a novas oportunidades.
+</p>
