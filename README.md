@@ -87,4 +87,28 @@ Gosto de construir soluções práticas e aprender fazendo. Meu foco é evoluir 
 | [Plantinder](https://github.com/jpedro-swe/Plantinder) | Plataforma que conecta quem quer doar uma planta com quem quer adotar | HTML, CSS, JavaScript |
 | [maui-pdm](https://github.com/jpedro-swe/maui-pdm) | Projetos de desenvolvimento mobile com .NET MAUI | C#, .NET MAUI |
 | [Analise_Projeto_Sistema](https://github.com/jpedro-swe/Analise_Projeto_Sistema) | Análise e modelagem de sistemas (UML, requisitos) | Documentação, UML |
-|
+| [Estruturas-de-Dados](https://github.com/jpedro-swe/Estruturas-de-Dados) | Implementações de listas, pilhas, filas, árvores etc. | Python |
+| [POO](https://github.com/jpedro-swe/POO) | Exercícios e projetos de Programação Orientada a Objetos | Java |
+| [Web-Programming](https://github.com/jpedro-swe/Web-Programming) | Projetos de desenvolvimento web | HTML, CSS, JavaScript, PHP |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jpedro-swe&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro-swe&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 💬 Filosofia
+
+> "Aprendo construindo: cada projeto é uma chance de melhorar e transformar ideias em soluções reais."
+
+---
+
+<p align="center">
+  ⭐ Obrigado por visitar meu perfil!<br>
+  🤝 Aberto a aprender, colaborar e a novas oportunidades.
+</p>
