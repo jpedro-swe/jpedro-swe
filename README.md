@@ -9,11 +9,7 @@ I’m passionate about building practical solutions, learning by doing, and impr
 
 ## 🌐 Where to find me
 
-<p align="left">
-  <a href="https://github.com/jpedro-swe">
-    <img src="https://img.shields.io/badge/GitHub-jpedro-swe-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-jpedro-swe-181717?style=for-the-badge&logo=github)](https://github.com/jpedro-swe)
 
 ---
 
