@@ -22,7 +22,6 @@
 
 <p align="center">
   <i>"Imagination is more important than knowledge."</i><br>
-  <i>"A imaginação é mais importante que o conhecimento."</i><br>
   — Albert Einstein
 </p>
 
