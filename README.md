@@ -20,13 +20,15 @@
   -->
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph.svg">
-    <img alt="Gráfico de contribuições estilo Pac-Man" src="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+---
+
+## 🎮 Gráfico de contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Gráfico de contribuições estilo Pac-Man" src="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -38,47 +40,7 @@ Gosto de construir soluções práticas e aprender fazendo. Meu foco é evoluir 
 - 🗃️ Interesse em bancos de dados, análise de sistemas e tratamento de dados
 - 🌐 Foco em desenvolvimento **web** e **mobile**
 - 🌱 Aprendendo agora: **.NET MAUI**, estruturas de dados e boas práticas de POO
-- 🤝 Experiência com trabalho em equipe, levantamento de requisitos e modelagem de sistemas
 - 📂 Sempre criando projetos novos para fortalecer meu portfólio
-
----
-
-## 🌿 Projeto em destaque: PlantTinder
-
-> **Adoção responsável de plantas.** Uma plataforma que conecta quem tem uma planta para doar com quem quer adotar uma.
-
-O PlantTinder foi desenvolvido em equipe na disciplina de **Análise e Projeto de Sistemas**. Nele participei do levantamento de requisitos e da modelagem da plataforma, desde o cadastro do usuário até a avaliação do doador.
-
-**Como funciona**
-1. **Cadastre-se:** nome, e-mail, telefone, localização e preferências de plantas
-2. **Encontre:** busca por espécie, tamanho ou região, com a distância até o doador
-3. **Peça a adoção:** o doador é notificado e aceita ou recusa
-4. **Combine e avalie:** conversa pelo chat, entrega da planta e nota de 1 a 5 estrelas
-
-**Requisitos funcionais (v1.0)**
-- Cadastro de usuário com validação de e-mail e campos obrigatórios
-- Anúncio de planta com espécie, tamanho, saúde, cuidados e fotos
-- Busca e filtros por região, com foto, disponibilidade e distância
-- Pedido de adoção com data e hora, notificação e histórico
-- Chat entre usuários com histórico e bloqueio de spam e ofensas
-- Avaliações e comentários, com média no perfil
-- Gerenciamento de perfil
-
-**Requisitos não funcionais**
-- 🔒 **Segurança:** login obrigatório, senhas criptografadas e conformidade com a LGPD
-- 🎯 **Usabilidade:** mensagens de erro orientativas e interface responsiva
-- ⚡ **Desempenho:** busca em até 2 s, fotos em até 3 s e mensagens em até 1 s
-- ☁️ **Disponibilidade:** 24/7, mínimo de 99% de uptime e backup automático
-- ✅ **Integridade:** sem anúncios incompletos, sem excluir planta com pedido pendente e uma avaliação por adoção
-- 📈 **Escalabilidade:** preparada para 10.000 usuários simultâneos
-
-**Equipe**
-[João Pedro](https://github.com/jpedro-swe) ·
-[Hélter Brandão](https://github.com/brandao395) ·
-[Davi Gonçalves](https://github.com/MF-DAVI) ·
-[Jorge Luis](https://github.com/7deo)
-
-🔗 [Ver repositório](https://github.com/jpedro-swe/Plantinder)
 
 ---
 
@@ -115,35 +77,13 @@ O PlantTinder foi desenvolvido em equipe na disciplina de **Análise e Projeto d
 
 ---
 
-## 📌 Outros projetos
+## 📌 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Plantinder](https://github.com/jpedro-swe/Plantinder) | Plataforma de adoção de plantas: requisitos, regras de negócio e protótipo | _preencha_ |
-| [Analise_Projeto_Sistema](https://github.com/jpedro-swe/Analise_Projeto_Sistema) | _Análise e modelagem de sistemas (UML, requisitos)_ | _Documentação, UML_ |
+| [Plantinder](https://github.com/jpedro-swe/Plantinder) | Plataforma que conecta quem quer doar uma planta com quem quer adotar | _preencha_ |
 | [maui-pdm](https://github.com/jpedro-swe/maui-pdm) | _Projetos de desenvolvimento mobile com .NET MAUI_ | C#, .NET MAUI |
+| [Analise_Projeto_Sistema](https://github.com/jpedro-swe/Analise_Projeto_Sistema) | _Análise e modelagem de sistemas (UML, requisitos)_ | _Documentação, UML_ |
 | [Estruturas-de-Dados](https://github.com/jpedro-swe/Estruturas-de-Dados) | _Listas, pilhas, filas, árvores etc._ | _ex.: Java / C_ |
 | [POO](https://github.com/jpedro-swe/POO) | _Exercícios e projetos de Programação Orientada a Objetos_ | _ex.: Java_ |
-| [Web-Programming](https://github.com/jpedro-swe/Web-Programming) | _Projetos de desenvolvimento web_ | HTML, CSS, JavaScript, PHP |
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jpedro-swe&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro-swe&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 💬 Filosofia
-
-> "Aprendo construindo: cada projeto é uma chance de melhorar e transformar ideias em soluções reais."
-
----
-
-<p align="center">
-  ⭐ Obrigado por visitar meu perfil!<br>
-  🤝 Aberto a aprender, colaborar e a novas oportunidades.
-</p>
+| [Web-Programming](https://github.com/jpedro-swe/Web-Programming) | _Projetos de desenvolvimento web_
