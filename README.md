@@ -1,10 +1,8 @@
 # Pedro Henrique
 
-## Desenvolvedor em formação
+Estudante de tecnologia com foco em desenvolvimento de software, banco de dados e soluções práticas.
 
-Sou estudante de tecnologia, apaixonado por programação, banco de dados, desenvolvimento web, mobile e soluções práticas.
-
-## Linguagens que conheço e utilizo
+## Linguagens
 
 - Java
 - Python
@@ -23,14 +21,13 @@ Sou estudante de tecnologia, apaixonado por programação, banco de dados, desen
 ## Áreas de interesse
 
 - Desenvolvimento Web
-- Programação Orientada a Objetos
-- Estruturas de Dados
 - Banco de Dados
+- Estruturas de Dados
+- Programação Orientada a Objetos
 - Aplicações Mobile
 - Análise e Projeto de Sistemas
-- Backend e Frontend
 
-## Repositórios em destaque
+## Projetos em destaque
 
 - [Analise_Projeto_Sistema](https://github.com/jpedro-swe/Analise_Projeto_Sistema)
 - [Estruturas-de-Dados](https://github.com/jpedro-swe/Estruturas-de-Dados)
@@ -54,7 +51,7 @@ Sou estudante de tecnologia, apaixonado por programação, banco de dados, desen
 
 ### Pacman contribution
 
-<picture data-importer="pacman">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph.svg?game=pacman">
