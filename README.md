@@ -22,8 +22,6 @@
 
 ---
 
-## 🎮 Gráfico de contribuições
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph.svg">
@@ -81,7 +79,9 @@ Gosto de construir soluções práticas e aprender fazendo. Meu foco é evoluir 
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Plantinder](https://github.com/jpedro-swe/Plantinder) | Plataforma que conecta quem quer doar uma planta com quem quer adotar | _ex.: C#, .NET MAUI_ |
+| [Plantinder](https://github.com/jpedro-swe/Plantinder) | Plataforma que conecta quem quer doar uma planta com quem quer adotar | _HTML5
+CSS3
+JavaScript_ |
 | [maui-pdm](https://github.com/jpedro-swe/maui-pdm) | _Projetos de desenvolvimento mobile com .NET MAUI_ | C#, .NET MAUI |
 | [Analise_Projeto_Sistema](https://github.com/jpedro-swe/Analise_Projeto_Sistema) | _Análise e modelagem de sistemas (UML, requisitos)_ | _Documentação, UML_ |
 | [Estruturas-de-Dados](https://github.com/jpedro-swe/Estruturas-de-Dados) | _Implementações de listas, pilhas, filas, árvores etc._ | _ex.: Java / C_ |
