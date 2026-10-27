@@ -52,7 +52,14 @@ Sou estudante de tecnologia, apaixonado por programação, banco de dados, desen
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
+### Pacman contribution
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jpedro-swe/jpedro-swe/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
 ## Contato
 
 - GitHub: [@jpedro-swe](https://github.com/jpedro-swe)
-
