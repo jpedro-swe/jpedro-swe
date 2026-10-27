@@ -20,6 +20,12 @@
   -->
 </p>
 
+<p align="center">
+  <i>"Imagination is more important than knowledge."</i><br>
+  <i>"A imaginação é mais importante que o conhecimento."</i><br>
+  — Albert Einstein
+</p>
+
 ---
 
 <picture>
@@ -79,35 +85,7 @@ Gosto de construir soluções práticas e aprender fazendo. Meu foco é evoluir 
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Plantinder](https://github.com/jpedro-swe/Plantinder) | Plataforma que conecta quem quer doar uma planta com quem quer adotar | _HTML5
-CSS3
-JavaScript_ |
-| [maui-pdm](https://github.com/jpedro-swe/maui-pdm) | _Projetos de desenvolvimento mobile com .NET MAUI_ | C#, .NET MAUI |
-| [Analise_Projeto_Sistema](https://github.com/jpedro-swe/Analise_Projeto_Sistema) | _Análise e modelagem de sistemas (UML, requisitos)_ | _Documentação, UML_ |
-| [Estruturas-de-Dados](https://github.com/jpedro-swe/Estruturas-de-Dados) | _Implementações de listas, pilhas, filas, árvores etc._ | _ex.: Java / C_ |
-| [POO](https://github.com/jpedro-swe/POO) | _Exercícios e projetos de Programação Orientada a Objetos_ | _ex.: Java_ |
-| [Web-Programming](https://github.com/jpedro-swe/Web-Programming) | _Projetos de desenvolvimento web_ | HTML, CSS, JavaScript, PHP |
-
-> 💡 Ajuste as descrições e tecnologias conforme o conteúdo real de cada repositório. Descrições curtas fazem muita diferença para quem visita seu perfil.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jpedro-swe&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro-swe&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 💬 Filosofia
-
-> "Aprendo construindo: cada projeto é uma chance de melhorar e transformar ideias em soluções reais."
-
----
-
-<p align="center">
-  ⭐ Obrigado por visitar meu perfil!<br>
-  🤝 Aberto a aprender, colaborar e a novas oportunidades.
-</p>****
+| [Plantinder](https://github.com/jpedro-swe/Plantinder) | Plataforma que conecta quem quer doar uma planta com quem quer adotar | HTML, CSS, JavaScript |
+| [maui-pdm](https://github.com/jpedro-swe/maui-pdm) | Projetos de desenvolvimento mobile com .NET MAUI | C#, .NET MAUI |
+| [Analise_Projeto_Sistema](https://github.com/jpedro-swe/Analise_Projeto_Sistema) | Análise e modelagem de sistemas (UML, requisitos) | Documentação, UML |
+|
