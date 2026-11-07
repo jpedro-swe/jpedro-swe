@@ -93,12 +93,13 @@ Gosto de construir soluções práticas e aprender fazendo. Meu foco é evoluir 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🏆 Minhas Conquistas
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/jpedro-swe?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&is.guest=true" alt="Metrics" width="600">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jpedro-swe&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophy" />
+  </a>
 </p>
----
 
 ## 💬 Filosofia
 
