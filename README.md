@@ -53,7 +53,7 @@ Gosto de construir soluções práticas e aprender fazendo. Meu foco é evoluir 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -63,12 +63,12 @@ Gosto de construir soluções práticas e aprender fazendo. Meu foco é evoluir 
 **Banco de dados**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-<!-- Troque pelos bancos que você realmente usa, ex.: MySQL, PostgreSQL, SQLite, SQL Server -->
 
 **Frameworks e plataformas**
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Ferramentas**
 
@@ -105,10 +105,3 @@ Gosto de construir soluções práticas e aprender fazendo. Meu foco é evoluir 
 ## 💬 Filosofia
 
 > "Aprendo construindo: cada projeto é uma chance de melhorar e transformar ideias em soluções reais."
-
----
-
-<p align="center">
-  ⭐ Obrigado por visitar meu perfil!<br>
-  🤝 Aberto a aprender, colaborar e a novas oportunidades.
-</p>
