@@ -94,10 +94,7 @@ Gosto de construir soluções práticas e aprender fazendo. Meu foco é evoluir 
 ---
 
 ## 📈 Atividade Recente
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jpedro-swe&theme=tokyonight&hide_border=true&area=true" alt="Gráfico de Atividade" />
-</p>
+![Teste](https://img.shields.io/badge/Teste-Funcionando-success)
 
 ## 💬 Filosofia
 
