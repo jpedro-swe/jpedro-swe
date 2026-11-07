@@ -96,7 +96,7 @@ Gosto de construir soluções práticas e aprender fazendo. Meu foco é evoluir 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jpedro-swe&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://metrics.lecoq.io/jpedro-swe?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&is.guest=true" alt="Metrics" width="600">
 </p>
 ---
 
