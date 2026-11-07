@@ -93,12 +93,10 @@ Gosto de construir soluções práticas e aprender fazendo. Meu foco é evoluir 
 
 ---
 
-## 🏆 Minhas Conquistas
+## 📈 Atividade Recente
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jpedro-swe&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophy" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jpedro-swe&theme=tokyonight&hide_border=true&area=true" alt="Gráfico de Atividade" />
 </p>
 
 ## 💬 Filosofia
