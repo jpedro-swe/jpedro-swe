@@ -94,13 +94,12 @@ Gosto de construir soluções práticas e aprender fazendo. Meu foco é evoluir 
 ---
 
 ## 📊 Estatísticas do GitHub
-
 ## 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpedro-swe&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro-swe&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jpedro-swe&show_icons=true&theme=tokyonight&v=1" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro-swe&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
+</p>
 ---
 
 ## 💬 Filosofia
